@@ -6,9 +6,9 @@ Journals and Software
 
 
 4. Central website compiling available university resources
-  *Software downloads*
-  *Creative software (Adobe, etc.)
-  *Biology/health science
-  *Equipment (cameras, tripods, etc.)
-  *Central application for loaning out equipment
-  *Other resources (maker space, 3D printing, etc.)
+  **Software downloads
+  Creative software (Adobe, etc.)
+  Biology/health science
+  Equipment (cameras, tripods, etc.)
+  Central application for loaning out equipment
+  Other resources (maker space, 3D printing, etc.)**

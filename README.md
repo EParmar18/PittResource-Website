@@ -4,8 +4,6 @@ Central website compiling available university resources
 Journals and Software
   https://www.hsls.pitt.edu/
 
-Central website compiling available university resources
-
   **Software downloads**
 
   **Creative software (Adobe, etc.)**

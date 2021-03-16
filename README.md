@@ -6,14 +6,14 @@ Journals and Software
 
 Central website compiling available university resources
 
-**Software downloads**
+  **Software downloads**
 
-**Creative software (Adobe, etc.)**
+  **Creative software (Adobe, etc.)**
 
-**Biology/health science**
+  **Biology/health science**
 
-**Equipment (cameras, tripods, etc.)**
+  **Equipment (cameras, tripods, etc.)**
 
-**Central application for loaning out equipment**
+  **Central application for loaning out equipment**
 
-**Other resources (maker space, 3D printing, etc.)**
+  **Other resources (maker space, 3D printing, etc.)**

@@ -6,7 +6,7 @@ Journals and Software
 
 
 4. Central website compiling available university resources
-  |**Software downloads|
+5. **Software downloads**
   Creative software (Adobe, etc.)
   Biology/health science
   Equipment (cameras, tripods, etc.)

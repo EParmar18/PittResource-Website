@@ -5,9 +5,7 @@ Journals and Software
   https://www.hsls.pitt.edu/
 
   **Software downloads**
-  
- all 70+ software downloads https://software.pitt.edu/#
-
+https://software.pitt.edu/#
   **Creative software (Adobe, etc.)**
 
   **Biology/health science**
@@ -15,7 +13,6 @@ Journals and Software
   **Equipment (cameras, tripods, etc.)**
   
   https://pitt.libguides.com/equipment/hillmanequipmentcollection 
-  
   https://teaching.pitt.edu/classroom-services/available-technology/
 
   **Central application for loaning out equipment**
@@ -25,6 +22,8 @@ Journals and Software
 makerspaces in benedum: https://www.panthermakerspace.org/about-us
 
 machine shop in benedum (SCPI): https://www.engineering.pitt.edu/SCPI/
+
+open lab in Hillman/Alumni: https://teaching.pitt.edu/open-lab/
 
 Campus Resourses: https://www.studentaffairs.pitt.edu/cc/resources/campus-resources/
 

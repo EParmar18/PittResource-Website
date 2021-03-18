@@ -1,8 +1,9 @@
 # PittResource-Website
 Central website compiling available university resources
 
-Journals and Software
-  https://www.hsls.pitt.edu/
+**Journals and Software**
+
+https://www.hsls.pitt.edu/
 
   **Software downloads**
 
@@ -27,7 +28,9 @@ machine shop in benedum (SCPI): https://www.engineering.pitt.edu/SCPI/
 
 open lab in Hillman/Alumni: https://teaching.pitt.edu/open-lab/
 
-Campus Resourses: https://www.studentaffairs.pitt.edu/cc/resources/campus-resources/
+**Campus Resourses:** 
+
+https://www.studentaffairs.pitt.edu/cc/resources/campus-resources/
 
 **project pitch:**
 https://jsflot.github.io/ProjectPitch2/

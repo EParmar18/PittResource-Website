@@ -17,3 +17,5 @@ Journals and Software
   **Other resources (maker space, 3D printing, etc.)**
 
 https://jsflot.github.io/ProjectPitch2/
+
+## Resources

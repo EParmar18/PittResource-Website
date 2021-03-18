@@ -11,6 +11,7 @@ Journals and Software
   **Biology/health science**
 
   **Equipment (cameras, tripods, etc.)**
+  https://pitt.libguides.com/equipment/hillmanequipmentcollection 
 
   **Central application for loaning out equipment**
 

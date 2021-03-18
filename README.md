@@ -23,6 +23,8 @@ makerspaces in benedum: https://www.panthermakerspace.org/about-us
 
 machine shop in benedum (SCPI): https://www.engineering.pitt.edu/SCPI/
 
+open lab in Hillman/Alumni: https://teaching.pitt.edu/open-lab/
+
 Campus Resourses: https://www.studentaffairs.pitt.edu/cc/resources/campus-resources/
 
 **project pitch:**

@@ -5,8 +5,10 @@ Journals and Software
   https://www.hsls.pitt.edu/
 
   **Software downloads**
+
 https://software.pitt.edu/#
-  **Creative software (Adobe, etc.)**
+ 
+ **Creative software (Adobe, etc.)**
 
   **Biology/health science**
 

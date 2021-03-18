@@ -11,8 +11,6 @@ Journals and Software
   **Biology/health science**
 
   **Equipment (cameras, tripods, etc.)**
-  https://pitt.libguides.com/equipment/hillmanequipmentcollection 
-  https://teaching.pitt.edu/classroom-services/available-technology/
 
   **Central application for loaning out equipment**
 
@@ -21,3 +19,5 @@ Journals and Software
 https://jsflot.github.io/ProjectPitch2/
 
 ## Resources
+Makerspaces in Benedum https://www.panthermakerspace.org/about-us
+Machine shop in Benedum (SCPI) https://www.engineering.pitt.edu/SCPI/

@@ -25,3 +25,6 @@ machine shop in benedum (SCPI): https://www.engineering.pitt.edu/SCPI/
 https://jsflot.github.io/ProjectPitch2/
 
 ## Resources
+
+Media Creation Lab (Podcasting, Lightboard, Webcast, Studio Lecture Capture)
+https://teaching.pitt.edu/media-creation-lab/

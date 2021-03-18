@@ -22,3 +22,5 @@ Journals and Software
 https://jsflot.github.io/ProjectPitch2/
 
 ## Resources
+Campus Resources
+https://www.studentaffairs.pitt.edu/cc/resources/campus-resources/

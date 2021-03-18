@@ -12,6 +12,7 @@ Journals and Software
 
   **Equipment (cameras, tripods, etc.)**
   https://pitt.libguides.com/equipment/hillmanequipmentcollection 
+  https://teaching.pitt.edu/classroom-services/available-technology/
 
   **Central application for loaning out equipment**
 

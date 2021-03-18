@@ -8,6 +8,8 @@ https://www.hsls.pitt.edu/
   **Software downloads**
 
 https://software.pitt.edu/#
+
+virtual lab: https://www.technology.pitt.edu/services/virtual-lab
  
  **Creative software (Adobe, etc.)**
 

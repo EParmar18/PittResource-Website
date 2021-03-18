@@ -29,3 +29,6 @@ Campus Resourses: https://www.studentaffairs.pitt.edu/cc/resources/campus-resour
 https://jsflot.github.io/ProjectPitch2/
 
 ## Resources
+
+Media Creation Lab (Podcasting, Lightboard, Webcast, Studio Lecture Capture)
+https://teaching.pitt.edu/media-creation-lab/

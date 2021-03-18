@@ -23,6 +23,8 @@ makerspaces in benedum: https://www.panthermakerspace.org/about-us
 
 machine shop in benedum (SCPI): https://www.engineering.pitt.edu/SCPI/
 
+Campus Resourses: https://www.studentaffairs.pitt.edu/cc/resources/campus-resources/
+
 **project pitch:**
 https://jsflot.github.io/ProjectPitch2/
 

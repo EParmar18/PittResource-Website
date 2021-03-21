@@ -18,6 +18,12 @@ https://www.engineering.pitt.edu/Technology-Group/Software-for-Students/
 virtual lab: https://www.technology.pitt.edu/services/virtual-lab
  
  **Creative software (Adobe, etc.)**
+ 
+ License activation: https://accounts.pitt.edu/SoftwareLicense/
+ 
+ Directions: https://www.technology.pitt.edu/software/adobe-creative-cloud-students
+ 
+ Creative cloud download page: https://creativecloud.adobe.com/apps/download/creative-cloud
 
   **Biology/health science**
  
@@ -48,6 +54,9 @@ Digital collections: https://digital.library.pitt.edu/
 
 Reserve rooms in hillman (includes recording booth, etc. probably should split them up): https://pitt.libcal.com/
 
+**Virtual Computing** Not sure where else to put this
+
+https://www.technology.pitt.edu/services/virtual-lab
 
 **Campus Resourses:** 
 

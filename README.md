@@ -85,13 +85,13 @@ On the landing page, ask the user if they are looking for a physical object (res
 ### Software
 
 
-### Media Creation
+### Media 
 
 
-### Category 3
+### Computing
 
 
-### Category 4
+### Creation
 
 
-### Category 5
+### Academics/Journals

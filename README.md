@@ -80,7 +80,7 @@ https://teaching.pitt.edu/media-creation-lab/
 
 ## Resources
 
-On the landing page, ask the user if they are looking for a physical object or non-physical (software, room reservations, etc.) 
+On the landing page, ask the user if they are looking for a physical object (reserving objects and rooms) or non-physical (software, downloads, computing etc.) 
 
 ### Software
 

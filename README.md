@@ -75,10 +75,12 @@ https://www.studentaffairs.pitt.edu/cc/resources/campus-resources/
 **project pitch:**
 https://jsflot.github.io/ProjectPitch2/
 
-## Resources
-
 Media Creation Lab (Podcasting, Lightboard, Webcast, Studio Lecture Capture)
 https://teaching.pitt.edu/media-creation-lab/
+
+## Resources
+
+On the landing page, ask the user if they are looking for a physical object or non-physical (software, room reservations, etc.) 
 
 ### Software
 

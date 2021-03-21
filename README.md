@@ -9,11 +9,18 @@ https://www.hsls.pitt.edu/
 
 https://software.pitt.edu/#
 
+
+https://www.engineering.pitt.edu/Technology-Group/Software-for-Faculty/
+
+https://www.engineering.pitt.edu/Technology-Group/Software-for-Students/
+
 virtual lab: https://www.technology.pitt.edu/services/virtual-lab
  
  **Creative software (Adobe, etc.)**
 
   **Biology/health science**
+ 
+ https://www.hsls.pitt.edu/
 
   **Equipment (cameras, tripods, etc.)**
   

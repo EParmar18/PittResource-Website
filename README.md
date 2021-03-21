@@ -41,6 +41,14 @@ machine shop in benedum (SCPI): https://www.engineering.pitt.edu/SCPI/
 
 open lab in Hillman/Alumni: https://teaching.pitt.edu/open-lab/
 
+**Humanities**
+Special collections: https://www.library.pitt.edu/archives-special-collections
+
+Digital collections: https://digital.library.pitt.edu/
+
+Reserve rooms in hillman (includes recording booth, etc. probably should split them up): https://pitt.libcal.com/
+
+
 **Campus Resourses:** 
 
 https://www.studentaffairs.pitt.edu/cc/resources/campus-resources/

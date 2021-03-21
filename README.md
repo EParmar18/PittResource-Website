@@ -5,6 +5,12 @@ Central website compiling available university resources
 
 https://www.hsls.pitt.edu/
 
+**High performance computing and supercomputing**
+
+High performance nodes: https://crc.pitt.edu/resources
+
+Supercomputing allocation= (research faculty only I think): https://www.psc.edu/resources/allocations/
+
   **Software downloads**
 
 https://software.pitt.edu/#

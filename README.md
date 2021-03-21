@@ -58,6 +58,8 @@ Reserve rooms in hillman (includes recording booth, etc. probably should split t
 
 https://www.technology.pitt.edu/services/virtual-lab
 
+https://www.technology.pitt.edu/virtual-desktop
+
 **Campus Resourses:** 
 
 https://www.studentaffairs.pitt.edu/cc/resources/campus-resources/

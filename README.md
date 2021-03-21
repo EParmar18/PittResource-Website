@@ -25,8 +25,11 @@ virtual lab: https://www.technology.pitt.edu/services/virtual-lab
 
   **Equipment (cameras, tripods, etc.)**
   
-  https://pitt.libguides.com/equipment/hillmanequipmentcollection 
+  https://pitt.libguides.com/equipment/hillmanequipmentcollection
+  
   https://teaching.pitt.edu/classroom-services/available-technology/
+  
+  https://library.pitt.edu/borrowing-supplies-and-technology-hillman#laptop
 
   **Central application for loaning out equipment**
 

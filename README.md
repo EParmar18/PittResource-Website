@@ -4,6 +4,12 @@ Central website compiling available university resources
 **project pitch:**
 https://jsflot.github.io/ProjectPitch2/
 
+## Roles
+
+- Developers:          Maya and Eshan
+- Document Writers:    Alyssa and Gabe
+- UI/UX Design:        Joe and Eshan
+
 ## Resources
 
 On the landing page, ask the user if they are looking for a physical object (reserving objects and rooms) or non-physical (software, downloads, computing etc.) 

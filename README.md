@@ -60,6 +60,8 @@ Digital collections: https://digital.library.pitt.edu/
 
 Reserve rooms in hillman (includes recording booth, etc. probably should split them up): https://pitt.libcal.com/
 
+Get books from other libraries: https://www.library.pitt.edu/e-zborrow
+
 **Virtual Computing** Not sure where else to put this
 
 https://www.technology.pitt.edu/services/virtual-lab

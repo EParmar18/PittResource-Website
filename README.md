@@ -101,3 +101,7 @@ Get books from other libraries: https://www.library.pitt.edu/e-zborrow
 ### Campus Resources
 
 https://www.studentaffairs.pitt.edu/cc/resources/campus-resources/
+
+## Website Features
+
+Alphabetical List of all available resources

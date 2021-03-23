@@ -27,7 +27,7 @@ On the landing page, ask the user if they are looking for a physical object (res
  
  Creative cloud download page: https://creativecloud.adobe.com/apps/download/creative-cloud
  
-  **Software downloads**
+  **Engineering Software**
 
 https://software.pitt.edu/#
 
@@ -39,7 +39,7 @@ https://www.engineering.pitt.edu/Technology-Group/Software-for-Students/
 
 virtual lab: https://www.technology.pitt.edu/services/virtual-lab
 
-### Media -> Media Creation
+### Media Creation
 
 **Equipment (cameras, tripods, etc.)** 
   
@@ -51,6 +51,8 @@ virtual lab: https://www.technology.pitt.edu/services/virtual-lab
   
   Media Creation Lab (Podcasting, Lightboard, Webcast, Studio Lecture Capture)
 https://teaching.pitt.edu/media-creation-lab/
+
+Recording booths etc. https://pitt.libcal.com/
 
 ### Computing
 
@@ -68,7 +70,7 @@ https://www.technology.pitt.edu/virtual-desktop
 
 
 
-### Creation
+### Fabrication
 
  **Other resources (maker space, 3D printing, etc.)**
   
@@ -78,11 +80,9 @@ machine shop in benedum (SCPI): https://www.engineering.pitt.edu/SCPI/
 
 open lab in Hillman/Alumni: https://teaching.pitt.edu/open-lab/
 
-### Academics/Journals -> Journal, Books, and Media
+### Journal, Books, and Media
 
-**Journals and Software** -> General (or something like that)
-
-https://www.hsls.pitt.edu/
+**General**
 
 Special collections: https://www.library.pitt.edu/archives-special-collections
 

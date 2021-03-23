@@ -39,9 +39,9 @@ https://www.engineering.pitt.edu/Technology-Group/Software-for-Students/
 
 virtual lab: https://www.technology.pitt.edu/services/virtual-lab
 
-### Media 
+### Media -> Media Creation
 
-**Equipment (cameras, tripods, etc.)**
+**Equipment (cameras, tripods, etc.)** 
   
   https://pitt.libguides.com/equipment/hillmanequipmentcollection
   
@@ -78,9 +78,9 @@ machine shop in benedum (SCPI): https://www.engineering.pitt.edu/SCPI/
 
 open lab in Hillman/Alumni: https://teaching.pitt.edu/open-lab/
 
-### Academics/Journals
+### Academics/Journals -> Journal, Books, and Media
 
-**Journals and Software**
+**Journals and Software** -> General (or something like that)
 
 https://www.hsls.pitt.edu/
 
@@ -93,7 +93,7 @@ Reserve rooms in hillman (includes recording booth, etc. probably should split t
 Get books from other libraries: https://www.library.pitt.edu/e-zborrow
 
  
- **Biology/health science**
+ **Biology/health science** -> Biology and Health Sciences
  
  https://www.hsls.pitt.edu/
 

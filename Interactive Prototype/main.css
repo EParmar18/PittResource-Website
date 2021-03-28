@@ -26,15 +26,15 @@ html {
   font-size: 17px;
 }
 
-/* Change the color of links on hover */
+/* Change the color of links on hover blue 003594 yellow FFB81C*/
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #FFB81C;
   color: black;
 }
 
 /* Style the "active" element to highlight the current page */
 .topnav a.active {
-  background-color: #2196F3;
+  background-color: #003594;
   color: white;
 }
 
@@ -75,7 +75,7 @@ input.search[type=text]:focus {
 a.tabs:link, a.tabs:visited {
     background-color: white;
     color: black;
-    border: 2px solid green;
+    border: 2px solid #FFB81C;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
@@ -85,7 +85,7 @@ a.tabs:link, a.tabs:visited {
 }
 
 a.tabs:hover, a:active {
-  background-color: green;
+  background-color: #FFB81C;
   color: white;
 }
 .box {
@@ -146,17 +146,39 @@ samp {
 table, th, td {
   border: 1px solid white;
   border-collapse: collapse;
-    vertical-align: middle;
-
 }
 th, td {
   padding: 5px;
 }
 th {
   text-align: left;
+}
+a.alpha{
+      float: left;
+  display: block;
+  color: #003594;
+  text-align: center;
+  font-size: 17px;
 
 }
+table.category{
+      padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+  border: none;
+  background: none;
+  width: 80%;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+    vertical-align: middle;
+}
 
+td.header-img{
+    width:100px;
+}
 img.no {
     animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
     background: transparent;
@@ -167,11 +189,54 @@ img.no {
     max-width: 95%;
 }
 img.icon{
-       display: block; 
+    display: block; 
     float:left;
-    width:60px;
     height:60px;
+    align-self: center;
 }
+
+img.title{
+    float:left;
+    height:220px;
+    align-self: center;
+    vertical-align:sub;
+}
+
+
+
+/*------------------------------------*/
+/*-----Style the dropwdown sections------------------*/
+
+/* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
+/*-----padding, top, right, bottom, left------------------*/
+
+.dropdown-btn {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+  border: none;
+  background: none;
+  width: 80%;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+    vertical-align: middle;
+}
+
+.dropdown-container {
+  display: none;
+  background-color: white;
+  padding-left: 8px;
+}
+
+/* Optional: Style the caret down icon */
+.fa-caret-down {
+  float: right;
+  padding-right: 8px;
+}
+
 
 @keyframes colorize {
     0% {

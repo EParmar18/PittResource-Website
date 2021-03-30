@@ -4,6 +4,9 @@ Central website compiling available university resources
 **project pitch:**
 https://jsflot.github.io/ProjectPitch2/
 
+**Project Presentation**
+https://eparmar18.github.io/EngCompPresentation/
+
 ## Roles
 
 - Developers:          Maya and Eshan

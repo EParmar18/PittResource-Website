@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Pitt Resource Hub</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        <div id="header-image-menu">
+            <img src = "Banner Art.png">
+        </div>
+        <div class="topnav">
+            <a class="active" href="index.html">Home</a>
+            <a href="categories.html">Categories</a>
+            <a href="alphabetically.html">Alphabetical</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </div>
+
+        <h1>Pitt Resource Hub</h1>
+        <h2>This is your guide to everything you have access to as a Pitt student!</h2>
+
+        <input id="myInput" onkeyup="myFunction()" class = "search" type="text" placeholder="Search.." >
+        <div class="options">
+            <ul id="myUL" >
+                <li style="display:none"><a href="BioandHealthScienceSoft.html">Biology and Health Science Software</a></li>
+                <li style="display:none"><a href="CreativeSoft.html">Creative Software</a></li>
+                <li style="display:none"><a href="EngineeringSoft.html">Engineering Software</a></li>
+                <li style="display:none"><a href="MediaEquipment.html">Media Equipment</a></li>
+                <li style="display:none"><a href="MediaRooms.html">Media Rooms/Studio Reservation</a></li>
+                <li style="display:none"><a href="Supercomputing.html">High Performance Computing and Supercomputing</a></li>
+                <li style="display:none"><a href="GeneralJournals.html">Journals, Books, and Media</a></li>
+                <li style="display:none"><a href="BioJournals.html">Biology/Health Sciences Journals, Books, and Media</a></li>
+                <li style="display:none"><a href="CampusResources.html">Campus Resources</a></li>
+                <li style="display:none"><a href="Fabrication.html">Fabrication Resources</a></li>
+            </ul>
+        </div>
+        <h3>Search for a resource, or browse available resources below.</h3>
+
+        <h3><a class = "tabs1" href="categories.html">Browse by category</a></h3>
+
+        <h3><a class = "tabs2" href="alphabetically.html">Browse alphabetically</a></h3>
+
+
+
+        <script>
+            function myFunction() {
+                var input, filter, ul, li, a, i, txtValue;
+                input = document.getElementById("myInput");
+                filter = input.value.toUpperCase();
+                ul = document.getElementById("myUL");
+                li = ul.getElementsByTagName("li");
+                for (i = 0; i < li.length; i++) {
+                    a = li[i].getElementsByTagName("a")[0];
+                    txtValue = a.textContent || a.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {              
+                        li[i].style.display = "block";
+
+                    } else {
+                        li[i].style.display = "none";
+                    }
+                    if(filter == ""){
+                        li[i].style.display = "none";
+                    }
+                }
+            }
+        </script>
+
+    </body>
+</html>

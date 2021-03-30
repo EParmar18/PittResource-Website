@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <div id="header-image-menu">
+            <img src = "Banner Art.png">
+        </div>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Pitt Resource Hub</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="main.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <div class="topnav">
+            <a href="index.html">Home</a>
+            <a class="active" href="categories.html">Categories</a>
+            <a href="alphabetically.html">Alphabetical</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </div>
+
+        <h1>Pitt Resource Hub, Categories</h1>
+
+        <button class="dropdown-btn">
+            <table>
+                <tr>
+                    <td class="header-img"><img  class = "icon" src="Icons/SoftwareMaster_Icon.png" alt="Software icon"></td>
+                    <th>Software</th>
+                    <td><i class="fa fa-caret-down"></i></td>
+                </tr>
+            </table>
+        </button>
+
+        <div class="dropdown-container">
+            <table>
+                <tr>
+                    <td style="width:100px"></td>
+                    <td><img class = "icon" src="Icons/SoftwareBioTentative_Icon.png" alt="Biology Software icon"></td>
+                    <td><a href="BioandHealthScienceSoft.html">Biology and Health Science Software</a></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><img class = "icon" src="Icons/SoftwareCreative1_Icon.png" alt="Creative Software icon"></td>
+                    <td><a href="CreativeSoft.html">Creative Software</a></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><img class = "icon" src="Icons/SoftwareEngineering_Icon.png" alt="Engineering Software icon"></td>
+                    <td><a href="EngineeringSoft.html">Engineering Software</a></td>
+                </tr>
+            </table>
+        </div>
+
+
+        <button class="dropdown-btn">
+            <table>
+                <tr>
+                    <td class="header-img"><img class = "icon" src="Icons/Media_Icon.png" alt="Media icon"></td>
+                    <th>Media Creation</th>
+                    <td><i class="fa fa-caret-down"></i></td>
+                </tr>
+            </table>
+        </button>
+
+        <div class="dropdown-container">
+            <table><tr>
+                <tr>
+                    <td style="width:100px"></td>
+                    <td><img class = "icon" src="Icons/MediaEquipment_Icon.png" alt="Media equipment icon"></td>
+                    <td><a href="MediaEquipment.html">Equipment (cameras, tripods, etc)</a></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><img style="padding-left:45px" class = "icon" src="Icons/Media%20Rooms_Icon.png" alt="Media equipment icon"></td>
+                    <td><a href="MediaRooms.html">Rooms/Studio Reservations</a></td>
+                </tr>
+            </table>
+        </div>
+
+        <button class="dropdown-btn">
+            <table>
+                <tr>
+                    <td class="header-img"><img class = "icon" src="Icons/Computing_Icon.png" alt="Computing icon"></td>
+                    <th>Computing</th>
+                    <td><i class="fa fa-caret-down"></i></td>
+                </tr>
+            </table>
+        </button>
+
+        <div class="dropdown-container">
+            <table>
+                <tr>
+                    <td style="width:100px"></td>
+                    <td><img class = "icon" src="Icons/Computing_Icon.png" alt="Computing icon"></td>
+                    <td><a href="Supercomputing.html"> High performance computing and supercomputing</a></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><img class = "icon" src="Icons/Computing_Icon.png" alt="Computing icon"></td>
+                    <td><a href="VirtualComputing.html">Virtual computing</a></td>
+                </tr>
+            </table>
+        </div>
+
+
+        <button class="dropdown-btn">
+            <table>
+                <tr>
+                    <td class="header-img"><img class = "icon" src="Icons/Journals,Books,Media_Icon.png" alt="Journals, Books and Media icon"></td>
+                    <th>Journals, Books, and Media</th>
+                    <td><i class="fa fa-caret-down"></i></td>
+                </tr>
+            </table>
+        </button>
+
+        <div class="dropdown-container">
+            <table>            
+                <tr>
+                    <td style="width:100px"></td>
+                    <td><img class = "icon" src="Icons/Journals,Books,Media_General_Icon.png" alt="Journals, Books and Media, general icon"></td>
+                    <td><a href="GeneralJournals.html">General</a></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><img style="padding-left:20px" class = "icon" src="Icons/Journals,Books,Media_Bio_Icon.png"  alt="Journals, Books and Media, Bio icon"></td>
+                    <td><a href="BioJournals.html">Biology/Health Science</a></td>
+                </tr>
+            </table>
+        </div>
+
+        <table class="category">
+            <tr>
+                <td class="header-img"><img style="padding-left:20px" class = "icon" src="Icons/Campus_Resources_Icon.png"  alt="Campus resources icon"></td>
+                <td colspan = "2"><b><a class="category_title" href="CampusResources.html">Campus Resources</a></b></td>
+            </tr>
+        </table>
+
+        <table class="category">
+            <tr>
+                <td class="header-img"><img class = "icon" src="Icons/Fabrication_Icon.png" alt="Fabrication icon"></td>
+                <td><b><a class="category_title" href="Fabrication.html">Fabrication</a></b></td>
+            </tr>
+        </table>
+
+        <script>
+
+            /* Loop through all dropdown buttons to toggle between hiding and showing its dropdown content - This allows the user to have multiple dropdowns without any conflict */
+            var dropdown = document.getElementsByClassName("dropdown-btn");
+            var i;
+
+            for (i = 0; i < dropdown.length; i++) {
+                dropdown[i].addEventListener("click", function() {
+                    this.classList.toggle("active");
+                    var dropdownContent = this.nextElementSibling;
+                    if (dropdownContent.style.display === "block") {
+                        dropdownContent.style.display = "none";
+                    } else {
+                        dropdownContent.style.display = "block";
+                    }
+                });
+            }
+        </script>
+
+    </body>
+</html>
